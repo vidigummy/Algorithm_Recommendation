@@ -1,1 +1,1 @@
-# Algorighm_Recommendation
+# Algorithm_Recommendation
